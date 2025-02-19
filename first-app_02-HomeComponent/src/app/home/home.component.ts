@@ -1,5 +1,6 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 import {CommonModule} from '@angular/common';
+
 
 @Component({
   selector: 'app-home',
@@ -14,4 +15,6 @@ import {CommonModule} from '@angular/common';
   `,
   styleUrls: ['./home.component.css'],
 })
-export class HomeComponent {}
+export class HomeComponent {
+
+}
